@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yield_Predictor</string>
+    <string name="Analyse">ವಿಶ್ಲೇಷಿಸಿ</string>
+    <string name="EnterAvailableNitrogen">ಲಭ್ಯವಿರುವ ಸಾರಜನಕವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="EnterAvailablePhosphorusP">ಲಭ್ಯವಿರುವ ರಂಜಕವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="EnterAvailablePotassium">ಲಭ್ಯವಿರುವ ಪೊಟ್ಯಾಸಿಯಮ್ ಅನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="EntercurrentHumidity">ಪ್ರಸ್ತುತ ಆರ್ದ್ರತೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="EntercurrenttemperatureP">ಪ್ರಸ್ತುತ ತಾಪಮಾನವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="GenerateOTP">ಒಟಿಪಿ ರಚಿಸಿ</string>
+    <string name="HybridMethiBlacksoil">"  ಹೈಬ್ರಿಡ್ ಮೆಥಿ ಕಪ್ಪು ಮಣ್ಣು"</string>
+    <string name="HybridMethiRedsoil">ಹೈಬ್ರಿಡ್ ಮೆಥಿ ಕೆಂಪು ಮಣ್ಣು</string>
+    <string name="Itisworking"> ಇದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ. . .</string>
+    <string name="MethiBlacksoil">ಮೆಥಿ ಕಪ್ಪು ಮಣ್ಣು</string>
+    <string name="MethiRedsoil">ಮೆಥಿ ಕೆಂಪು ಮಣ್ಣು</string>
+    <string name="PleaseenteryourCountryCodeandPhonenumberverification">ಪರಿಶೀಲನೆಗಾಗಿ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕಂಟ್ರಿ ಕೋಡ್  ಮತ್ತು ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="ShowUploads">ಅಪ್ಲೋಡ್‌ಗಳು</string>
+    <string name="Time">ಸಮಯ</string>
+    <string name="Upload">ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="VerifyYourNumber">ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="Wanttouploadpicturemanually">ಚಿತ್ರವನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಬಯಸುವಿರಾ ??</string>
+    <string name="WehavesentyouanOTPforphonenumberverification">ಫೋನ್ ಸಂಖ್ಯೆ ಪರಿಶೀಲನೆಗಾಗಿ ನಾವು ನಿಮಗೆ ಒಟಿಪಿ ಕಳುಹಿಸಿದ್ದೇವೆ</string>
+    <string name="YourPhoneNumber">ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="enterotp">ಒಟಿಪಿ ನಮೂದಿಸಿ</string>
+    <string name="pleaseChoosepicture">ದಯವಿಟ್ಟು ಚಿತ್ರವನ್ನು ಆರಿಸಿ</string>
+    <string name="selectmethitype">ಮೆಥಿ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="enterph">pH ಅನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="Heightofplants">ಸಸ್ಯಗಳ ಎತ್ತರ</string>
+    <string name="environmentalcondition">  ಪರಿಸರ ಸ್ಥಿತಿ</string>
+
+</resources>

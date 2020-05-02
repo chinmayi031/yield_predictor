@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:gravity="center"
+    android:background="@drawable/new2"
+    tools:context=".getresult">
+
+
+    <TextView
+        android:text="@string/Heightofplants"
+        android:textSize="30sp"
+        android:textColor="#000000"
+        android:id="@+id/post_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <View
+        android:id="@+id/border1"
+        android:background="@drawable/new2"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/post_data"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/border1"
+        android:id="@+id/height"
+        android:background="@drawable/text_input_bg"
+        android:text="response"
+
+        android:padding="10dp"
+        android:textSize="30dp"/>
+
+    <View
+        android:id="@+id/border"
+        android:background="@drawable/new2"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/height"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+
+
+    <Button
+        android:text="Logout"
+        android:id="@+id/logout"
+       android:textColor="@color/white"
+        android:background="@drawable/primary_btn_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/border"/>
+
+
+
+</RelativeLayout>

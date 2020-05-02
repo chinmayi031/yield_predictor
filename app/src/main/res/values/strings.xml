@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Yield_Predictor</string>
+    <string name="title_activity_home_activty" translatable="false">home_activty</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+
+
+    <string name="enterotp">Enter OTP</string>
+
+    <string name="WehavesentyouanOTPforphonenumberverification">We have sent you an OTP \n for phone number verification</string>
+
+    <string name="Itisworking"> It is Working . . .</string>
+
+    <string name="selectmethitype">Select methi type</string>
+
+    <string name="ShowUploads">Show uploads</string>
+
+    <string name="pleaseChoosepicture"> please Choose picture</string>
+
+    <string name="Time"> Time</string>
+
+    <string name="VerifyYourNumber">Verify Your Number</string>
+
+    <string name="PleaseenteryourCountryCodeandPhonenumberverification"> Please enter your Country Code \n and Phone number for verification</string>
+
+    <string name="YourPhoneNumber">Your Phone Number</string>
+
+    <string name="GenerateOTP"> Generate OTP</string>
+
+    <string name="HybridMethiBlacksoil">Hybrid Methi Black soil</string>
+
+    <string name="EnterAvailableNitrogen">Enter Available Nitrogen</string>
+
+    <string name="EnterAvailablePhosphorusP">Enter Available Phosphorus</string>
+
+    <string name="EnterAvailablePotassium">Enter Available Potassium</string>
+
+    <string name="EntercurrenttemperatureP">Enter current temperature</string>
+
+    <string name="EntercurrentHumidity"> Enter current Humidity</string>
+
+    <string name="Wanttouploadpicturemanually">Want to upload picture manually??</string>
+
+    <string name="Upload">Upload</string>
+
+    <string name="Analyse">Analyse</string>
+
+    <string name="HybridMethiRedsoil">Hybrid Methi Red soil</string>
+
+    <string name="MethiBlacksoil">Methi Black soil</string>
+
+    <string name="MethiRedsoil">Methi Red soil</string>
+
+    <string name="enterph">Enter pH</string>
+
+    <string name="Heightofplants">Height of plants</string>
+
+    <string name="environmentalcondition">Environmental condition</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+

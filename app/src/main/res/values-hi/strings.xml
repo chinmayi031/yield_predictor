@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yield_Predictor</string>
+    <string name="Analyse">विश्लेषण</string>
+    <string name="EnterAvailableNitrogen">उपलब्ध नाइट्रोजन दर्ज करें</string>
+    <string name="EnterAvailablePhosphorusP">उपलब्ध फास्फोरस दर्ज करें</string>
+    <string name="EnterAvailablePotassium">उपलब्ध पोटेशियम दर्ज करें</string>
+    <string name="EntercurrentHumidity">वर्तमान आर्द्रता दर्ज करें</string>
+    <string name="EntercurrenttemperatureP">वर्तमान तापमान दर्ज करें</string>
+    <string name="GenerateOTP">ओटीपी जनरेट करें</string>
+    <string name="HybridMethiBlacksoil">हाइब्रिड मेथी काली मिट्टी</string>
+    <string name="HybridMethiRedsoil">हाइब्रिड मेथी लाल मिट्टी</string>
+    <string name="Itisworking">यह काम कर रहा है । । ।</string>
+    <string name="MethiBlacksoil">मेथी काली मिट्टी</string>
+    <string name="MethiRedsoil">मेथी लाल मिट्टी</string>
+    <string name="PleaseenteryourCountryCodeandPhonenumberverification">कृपया सत्यापन के लिए अपना देश कोड  और फ़ोन नंबर दर्ज करें</string>
+    <string name="ShowUploads">अपलोड दिखाएं</string>
+    <string name="Time">समय</string>
+    <string name="Upload">डालना</string>
+    <string name="VerifyYourNumber">अपना नंबर सत्यापित करें</string>
+    <string name="Wanttouploadpicturemanually">मैन्युअल रूप से चित्र अपलोड करना चाहते हैं ??</string>
+    <string name="WehavesentyouanOTPforphonenumberverification">हमने आपको फ़ोन नंबर सत्यापन के लिए एक OTP भेजा है</string>
+    <string name="YourPhoneNumber">आपकी दूरभाष संख्या</string>
+    <string name="enterotp">OTP दर्ज करें</string>
+    <string name="pleaseChoosepicture">कृपया चित्र चुनें</string>
+    <string name="selectmethitype">मेथी प्रकार का चयन करें</string>
+    <string name="enterph">पीएच दर्ज करें</string>
+    <string name="Heightofplants">पौधों की ऊँचाई</string>
+    <string name="environmentalcondition">पर्यावरणीय स्थिति</string>
+</resources>

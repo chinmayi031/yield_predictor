@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/new2"
+    tools:context=".HMBS">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+      android:text="@string/HybridMethiBlacksoil"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        />
+
+
+
+    <EditText
+        android:id="@+id/ph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_input_bg"
+       android:hint="@string/enterph"
+
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:id="@+id/nitrogen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_input_bg"
+       android:hint="@string/EnterAvailableNitrogen"
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:id="@+id/phosphorus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/EnterAvailablePhosphorusP"
+        android:background="@drawable/text_input_bg"
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:id="@+id/potassium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_input_bg"
+        android:hint="@string/EnterAvailablePotassium"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/temperature"
+        android:layout_width="match_parent"
+        android:background="@drawable/text_input_bg"
+        android:layout_height="wrap_content"
+       android:hint="@string/EntercurrenttemperatureP"
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:id="@+id/humidity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_input_bg"
+        android:hint="@string/EntercurrentHumidity"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/analyse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Analyse"
+        android:textColor="@color/white"
+
+        android:background="@drawable/primary_btn_bg"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Wanttouploadpicturemanually"
+        android:textColor="#000000"
+        android:textStyle="italic"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/np"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:background="@drawable/primary_btn_bg"
+        android:text="@string/Upload"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"/>
+
+
+
+
+
+
+
+</LinearLayout>

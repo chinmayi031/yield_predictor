@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="@drawable/new2"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:text="YIELD PREDICTOR"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:textSize="70dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonlang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="9dp"
+
+        android:background="@drawable/primary_btn_bg"
+        android:gravity="center"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="50dp"
+        android:text="Choose your language"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>
